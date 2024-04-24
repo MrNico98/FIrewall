@@ -1,5 +1,0 @@
-C:\Users\Nico\Documents\Visual Studio 2022\Firewall\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.exe
-C:\Users\Nico\Documents\Visual Studio 2022\Firewall\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.dll
-C:\Users\Nico\Documents\Visual Studio 2022\Firewall\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.deps.json
-C:\Users\Nico\Documents\Visual Studio 2022\Firewall\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
-C:\Users\Nico\Documents\Visual Studio 2022\Firewall\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.pdb
