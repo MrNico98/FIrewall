@@ -54,22 +54,40 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="D3DCompiler_47_cor3.dll" size="4127224">
+  <file name="EsclusioneFirewall.deps.json" size="446">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>JDi1IKyWHjjFhSd5EDc0vjc+4rbR5ael1JJItSrMfE0=</dsig:DigestValue>
+      <dsig:DigestValue>qMed8iO9uuSTqFVwgM2xEfUzogpbmBBgZuyp/zLHQf8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="EsclusioneFirewall.exe" size="144207395">
+  <file name="EsclusioneFirewall.dll" size="133632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>o6HP8jKEfAZmCCbAwEKsezkzL8IjVz6Xw/GZbrkGBpg=</dsig:DigestValue>
+      <dsig:DigestValue>RgY0P0CgpbW1DuK1xX4N0wPzIQDG80xCcLRuHeXlEmw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="EsclusioneFirewall.exe" size="204800">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ybOa8gyDK+H2IJVg/nB9Je1JVmn5u5uzgrK788+vhhQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="EsclusioneFirewall.runtimeconfig.json" size="458">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xxFSvyXkDWR7JEDFs5vhV6PTVhBr6dW2eKuXu4e054I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="icoLogoWhite.ico" size="62050">
@@ -79,42 +97,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>8qJ72tuOD0JZEcsegeQ8uC+woMmlZLA4PrNVXabKn5E=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="PenImc_cor3.dll" size="141584">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eA82E8NIpD9Y5Q5xaQDtpH5p0WqOIOHoyZUQFWxE4Q0=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="PresentationNative_cor3.dll" size="943792">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>P0pd7n4Izfv5TnmwsIcVfrXbE1LG/y0sXDsIVlUFOVQ=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="vcruntime140_cor3.dll" size="91240">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xDLTxqAtY2xOZsuXu3OGVe+xeGqJ0u9EbNCq7cf2+3s=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="wpfgfx_cor3.dll" size="1803032">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oo5prbvwn2zIXUTQyjLwHXJrOoew3N7lf5avdz/uxec=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
